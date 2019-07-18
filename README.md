@@ -1,2 +1,2 @@
 # Tank-Robots
- Tank and joystick remote control
+ Tank and joystick remote control files; see web site www.frankhermes.com for background...
